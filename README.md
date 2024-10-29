@@ -1,4 +1,4 @@
-Hi, My name is Olesandr Toderash
+Hi, My name is Oleksandr Toderash
 =====================================================================================================================================
 
 Self taught Developer
